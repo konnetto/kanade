@@ -1,29 +1,11 @@
-# konetto-landingpage
+# 🎶 Kanade Landing
 
-This template should help get you started developing with Vue 3 in Vite.
+**Kanade (奏)** in Japanese means **"to play music" or "to create harmony"**.  
+This is the **official landing page for Konnetto**, designed to showcase the platform, its vision, and provide the first welcoming experience for fans and creators.
 
-## Recommended IDE Setup
+`kanade-landing` introduces what Konnetto is about:
+- Highlighting the vision: *Where fans connect & oshis shine* ✨
+- Explaining features such as watchlists, creator support, and community events
+- Acting as the entry point for new users before signing up
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+As the **front stage of Konnetto**, `kanade-landing` sets the tone and harmony that represents the soul of the platform.
